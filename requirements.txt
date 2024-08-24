@@ -1,0 +1,8 @@
+colorama
+requests
+pystyle
+discord.py
+psutil
+beautifulsoup4
+phonenumbers
+selenium
