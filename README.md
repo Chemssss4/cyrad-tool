@@ -16,6 +16,7 @@ aller dans votre terminal
 git clone https://github.com/Chemssss4/cyrad-tool.git
 ```
 # 3 étape
+entre 
 ```
 cd cyrad-tool
 ```
