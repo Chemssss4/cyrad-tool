@@ -20,7 +20,7 @@ entre
 ```
 cd cyrad-tool
 ```
-Mettez
+pour finir écrivez
 ```
 python main.py
 ```
