@@ -4,13 +4,12 @@
 
 Pour installer Cyrad Tool, suivez ces étapes :
 
-```bash
+bash
 git clone https://github.com/Chemssss4/cyrad-tool.git
 cd cyrad-tool
-# Ajoutez ici d'autres instructions d'installation si nécessaire
-apres fesait 
+# apres fesait 
 ```bash
-python main.py
+python main.py```
  
 #en cas de aide ouvre un ticket !
 https://discord.com/invite/z6k94D7eyu
