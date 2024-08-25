@@ -14,13 +14,14 @@ pour l'installer installer les modules suivants
 aller dans votre terminal
 ```
 git clone https://github.com/Chemssss4/cyrad-tool.git
+```
 # 3 étape
 ```
 cd cyrad-tool
-
+```
 Mettez
 ```
 python main.py
-
-#dernier étape 
+```
+# dernier étape 
 profitez du tool
