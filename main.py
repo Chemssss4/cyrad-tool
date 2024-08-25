@@ -1,7 +1,6 @@
 
 # par pitié ne pas volé mon code et ne rien modiffié svp sah
 # Merci a ceux qui me soutiennent malgrès les nombreux rageux
-# J'vous aime.
 
 
 
