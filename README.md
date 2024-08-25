@@ -11,3 +11,6 @@ cd cyrad-tool
 apres fesait 
 ```bash
 python main.py
+ 
+#en cas de aide ouvre un ticket !
+https://discord.com/invite/z6k94D7eyu
