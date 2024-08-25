@@ -32,7 +32,7 @@ def run():
                                                                          ╔══════════════════════════════════════════════════════════════════════════╗
                                                                          ║                         Informations sur l'outil                         ║
                                                                          ║                                                                          ║
-                                                                         ║  Roner Tools est un outil complet et sécurisé pour effectuer diverses    ║
+                                                                         ║  cyrad est un outil complet et sécurisé pour effectuer diverses    ║
                                                                          ║  tâches informatiques. Développé pour les administrateurs système,       ║
                                                                          ║  les ingénieurs réseau et les développeurs, il offre une large gamme     ║
                                                                          ║  de fonctionnalités pour faciliter la gestion et l'analyse des données.  ║
@@ -45,8 +45,8 @@ def run():
                                                                          ╚═════════════════════════════╗          ╔═════════════════════════════════╝
                                                                                                        ║          ║
                                                                                                   ╔════╝          ╚═══════╗
-                                                                                                  ║> Github : Akadebian   ║
-                                                                                                  ║> Tiktok : Roner tools ║
+                                                                                                  ║> Github :   Chemssss4 ║
+                                                                                                  ║> discord: cyrad gen  ║
                                                                                                   ╚═══════════════════════╝ 
 """)
 
