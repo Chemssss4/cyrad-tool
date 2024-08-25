@@ -2,14 +2,14 @@
 ce tool est un tool multi pour cyrad tool
 pour l'installer installer les modules suivants
 #module 
-•discord.py
-•colorama
-•requests
-•pystyle
-•psutil
-•beautifulsoup4
-•phonenumbers
-•selenium
+* discord.py
+* colorama
+* requests
+* pystyle
+* psutil
+* beautifulsoup4
+* phonenumbers
+* selenium
 # 2 étape
 aller dans votre terminal
 ```
